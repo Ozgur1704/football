@@ -1,3 +1,4 @@
+#Neuer Kommentar
 #!/bin/bash
 set -e
 docker build --build-arg DOCKER_BASE=ubuntu:20.04 . -t gfootball_docker_test
